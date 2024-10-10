@@ -1,0 +1,7 @@
+F:\AssignMent\LoanManagement\obj\Release\net8.0\PubTmp\Out\LoanManagement.exe
+F:\AssignMent\LoanManagement\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+F:\AssignMent\LoanManagement\obj\Release\net8.0\PubTmp\Out\appsettings.json
+F:\AssignMent\LoanManagement\obj\Release\net8.0\PubTmp\Out\LoanManagement.dll
+F:\AssignMent\LoanManagement\obj\Release\net8.0\PubTmp\Out\LoanManagement.deps.json
+F:\AssignMent\LoanManagement\obj\Release\net8.0\PubTmp\Out\LoanManagement.runtimeconfig.json
+F:\AssignMent\LoanManagement\obj\Release\net8.0\PubTmp\Out\LoanManagement.pdb
